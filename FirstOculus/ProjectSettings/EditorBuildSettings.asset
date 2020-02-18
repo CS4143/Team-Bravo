@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Rick's Scence.unity
     guid: 9d42293171f054f39a6dee3ff636d1b0
   - enabled: 0
     path: Assets/Oculus/VR/Scenes/Room.unity
