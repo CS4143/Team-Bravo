@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Oculus/SampleFramework/Usage/CustomControllers.unity
+- path: Assets/Scenes/GameUI.unity
   isLoaded: 1
   isActive: 1
