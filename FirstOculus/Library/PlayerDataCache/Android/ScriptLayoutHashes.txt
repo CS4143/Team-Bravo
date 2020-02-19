@@ -1,8 +1,8 @@
 Android
 PlayerPath?
-/Users/rick/Desktop/HelloOculus1.apk
+/Users/rick/Desktop/Lowpoly.apk
 SceneListBegin?
-Assets/Scenes/GameUI.unity
+Assets/Scenes/Lowpoly.unity
 SceneListEnd?
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.ONSPVersion
 bf5cb87c773ea378a3f5ac036aab367b Assembly-CSharp.dll:.SocialPlatformManager

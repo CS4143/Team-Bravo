@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{05450F50-1872-CD5B-D12F-76B1CC66473E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/SampleFramework/Usage/DistanceGrab/Scripts/DistanceGrabberSample.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/VR/Scripts/Util/OVRDebugInfo.cs">
     <Files>
       <File FileName="Assets/Oculus/VR/Scripts/Util/OVRDebugInfo.cs" Line="38" Column="22" />
-      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRPlayerController.cs" />
-      <File FileName="Assets/Oculus/VR/Scripts/OVRManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRGrabber.cs" Line="1" Column="1" />
-      <File FileName="Assets/Oculus/SampleFramework/Usage/DistanceGrab/Scripts/DistanceGrabberSample.cs" Line="1" Column="1" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRPlayerController.cs" Line="433" Column="21" />
+      <File FileName="Assets/Oculus/VR/Scripts/OVRManager.cs" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRGrabber.cs" Line="60" Column="42" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ff16b47f-cf30-4241-a2f9-cd9d0a7f8a0e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b0686b31-69d8-4dc7-bf6a-446c52e109ed" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
