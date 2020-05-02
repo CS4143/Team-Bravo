@@ -1,26 +1,20 @@
 ﻿<Properties StartupConfiguration="{05450F50-1872-CD5B-D12F-76B1CC66473E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScenceSwitcher.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/LaserPointer.cs">
     <Files>
       <File FileName="Assets/Oculus/VR/Scripts/Util/OVRDebugInfo.cs" Line="38" Column="22" />
       <File FileName="Assets/Oculus/VR/Scripts/Util/OVRPlayerController.cs" />
       <File FileName="Assets/Oculus/VR/Scripts/OVRManager.cs" />
       <File FileName="Assets/Oculus/VR/Scripts/Util/OVRGrabber.cs" />
       <File FileName="Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs" />
-      <File FileName="Assets/Scripts/VRController.cs" Line="48" Column="10" />
-      <File FileName="Assets/Scripts/GlowWhenLightOff.cs" Line="29" Column="1" />
-      <File FileName="Assets/Scripts/ScenceSwitcher.cs" Line="4" Column="13" />
+      <File FileName="Assets/Scripts/VRController.cs" />
+      <File FileName="Assets/Scripts/GlowWhenLightOff.cs" />
+      <File FileName="Assets/Scripts/ScenceSwitcher.cs" Line="11" Column="6" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/LaserPointer.cs" Line="30" Column="21" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="FirstOculus" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e0f586be-56fc-4026-97e3-46c64374572e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ade4a16d-7efd-4a2c-8331-d77ef8f82cff" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
